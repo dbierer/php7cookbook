@@ -1,0 +1,4 @@
+Hello, Doug. I am translating your PHP7 cookbook to Russian. 
+Can you tell me, please, how your code in the book works with new versions of PHP from 7.2 to 7.4? 
+Is the book absolutely actual now? Unfortunately, I do not find another channel for communication. 
+Thanks a lot for your time! My e-mail: novikoiva@gmail.com. Certainly, if you want you can write an answer here. Thanks again!

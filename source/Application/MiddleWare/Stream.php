@@ -194,7 +194,7 @@ class Stream implements StreamInterface
      */
     public function isWritable()
     {
-        return $this->stream->isWritable();
+        return $this->info->isWritable();
     }
 
     /**
